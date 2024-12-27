@@ -12,3 +12,20 @@ It is a great opportunity to delve deeper into some niche points of the language
 *- "Sharing knowledge is a noble attitude that enriches both the person sharing it and the person receiving it, as knowledge multiplies when it is shared."*
 
 ## Repository tree
+
+
+```python
+  /advanced-c
+  ├── /cases
+  │   ├── /array_decay
+  │   │   ├──/ excalidraw
+  │   │   │   ├── README.md
+  │   │   │   └── array_decay.c
+  │   │   └── README.md
+  │   └── /other_cases...
+  ├── /images
+  ├── .gitattributes
+  ├── .gitignore
+  ├── LICENSE
+  └── README.md
+```
