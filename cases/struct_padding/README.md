@@ -1,6 +1,6 @@
 ## STRUCT PADDING
 
-<img src="https://github.com/RafaelVVolkmer/c-advanced-topics/blob/main/struct_padding/excalidraw/struct_padding.svg" alt="Struct Padding" style="width: 800%; border: none;"/>
+<img src="excalidraw/struct_padding.svg" alt="Struct Padding" style="width: 800%; border: none;"/>
 
 ```c
 typedef struct paddingStruct 
