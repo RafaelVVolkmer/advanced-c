@@ -3,7 +3,7 @@
   <img src="images/advanced_c_logo.svg" alt="advanced c" style="width: 55%; border: none;"/>
 </p>
 
-## What is the proposal?
+## - What is the proposal?
 
 Advanced C is a repository focused on sharing small explanatory examples of advanced topics in the C programming language. It is divided into small cases, which come with sample code that can be tested in any IDE or online compiler for learning purposes, as well as an explanatory diagram in excalidraw, which illustrates the interaction of the code with the basic concept of the problem exposed, such as memory usage and other topics. Along with this, there is also an explanation of why the cases occur and how to deal with them.
 
@@ -11,7 +11,7 @@ It is a great opportunity to delve deeper into some niche points of the language
 
 *- "Sharing knowledge is a noble attitude that enriches both the person sharing it and the person receiving it, as knowledge multiplies when it is shared."*
 
-## Repository tree
+## - Repository tree
 
 
 ```python
