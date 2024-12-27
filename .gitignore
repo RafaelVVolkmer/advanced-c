@@ -242,3 +242,6 @@ debug/
 # System Files
 .DS_Store
 Thumbs.db
+
+# WSL
+**/*.Identifier
