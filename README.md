@@ -34,6 +34,12 @@ It is a great opportunity to delve deeper into some niche points of the language
 
 [Charles Cabergs - Advanced C - Playlist on YouTube](https://www.youtube.com/watch?v=g7CCaRwRVBQ&list=PL71Y0EmrppR0KyZvQWj63040UEzKQU7n8)
 
-Grokking Algorithms - by: Aditya Bhargava
+The C Programming Language - by: Brian W. Kernighan, 
+Dennis M. RitchieDennis M. Ritchie
 
 Compilers: principles, techniques, and tools - by: Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman, Monica S. Lam
+
+Grokking Algorithms - by: Aditya Bhargava
+
+Domain-Driven Design - by: Eric EvansEric Evans
+
