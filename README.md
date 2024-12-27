@@ -29,3 +29,11 @@ It is a great opportunity to delve deeper into some niche points of the language
   ├── LICENSE
   └── README.md
 ```
+
+## - References
+
+[Charles Cabergs - Advanced C - Playlist on YouTube](https://www.youtube.com/watch?v=g7CCaRwRVBQ&list=PL71Y0EmrppR0KyZvQWj63040UEzKQU7n8)
+
+Grokking Algorithms - by: Aditya Bhargava
+
+Compilers: principles, techniques, and tools - by: Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman, Monica S. Lam
