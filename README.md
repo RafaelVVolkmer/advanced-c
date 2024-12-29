@@ -108,6 +108,6 @@ It is a great opportunity to delve deeper into some niche points of the language
 [issues-url]: https://github.com/RafaelVVolkmer/advanced-c/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/rafaelvvolkmer
-[license-shield]: https://img.shields.io/github/license/RafaelVVolkmer/advanced-cvg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/RafaelVVolkmer/advanced-c.svg?style=flat-square
 [license-url]: https://github.com/RafaelVVolkmer/advanced-c/blob/main/LICENSE.txt
 
