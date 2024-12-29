@@ -33,6 +33,8 @@ It is a great opportunity to delve deeper into some niche points of the language
 
 *- "Sharing knowledge is a noble attitude that enriches both the person sharing it and the person receiving it, as knowledge multiplies when it is shared."*
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ##
 
 # - Tech Stack - Environment Settings
@@ -79,20 +81,22 @@ It is a great opportunity to delve deeper into some niche points of the language
   └── README.md
 ```
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+##
+
 ## - References
 
-[Charles Cabergs - Advanced C - Playlist on YouTube](https://www.youtube.com/watch?v=g7CCaRwRVBQ&list=PL71Y0EmrppR0KyZvQWj63040UEzKQU7n8) | [Charles Cabergs - On LinkedIn](https://www.linkedin.com/in/charles-cabergs/)
+| Title                                                                                                                                         | Author / Year                                                      |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| [Charles Cabergs - Advanced C (Playlist on YouTube)](https://www.youtube.com/watch?v=g7CCaRwRVBQ&list=PL71Y0EmrppR0KyZvQWj63040UEzKQU7n8)<br> | [Charles Cabergs](https://www.linkedin.com/in/charles-cabergs/), 2023 |
+| **The C Programming Language**                                                                                                                 | Brian W. Kernighan, Dennis M. Ritchie, 1978                               |
+| **Compilers: Principles, Techniques, and Tools**                                                                                               | Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman, Monica S. Lam, 1985           |
+| **Grokking Algorithms**                                                                                                                        | Aditya Bhargava, 2015                                                       |
+| **Domain-Driven Design: Tackling Complexity in the Heart of Software**                                                                         | Eric Evans, 2004                                                           |
+| **Understanding and Using C Pointers: Core Techniques for Memory Management**                                                                  | Richard M. Reese, 2013                                               |
 
-
-
-The C Programming Language - by: Brian W. Kernighan, 
-Dennis M. RitchieDennis M. Ritchie
-
-Compilers: principles, techniques, and tools - by: Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman, Monica S. Lam
-
-Grokking Algorithms - by: Aditya Bhargava
-
-Domain-Driven Design - by: Eric EvansEric Evans
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [stars-shield]: https://img.shields.io/github/stars/RafaelVVolkmer/advanced-c.svg?style=flat-square
 [stars-url]: https://github.com/RafaelVVolkmer/advanced-c/stargazers
